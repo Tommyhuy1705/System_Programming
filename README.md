@@ -1,4 +1,5 @@
 # Systems Programming
+# 2026 ThaiTran - Systems Programming Exercises
 
 Trường Công nghệ và Thiết kế - UEH University
 Repository này lưu trữ các bài tập thực hành của môn học Lập trình hệ thống.
@@ -45,4 +46,3 @@ SystemsProgramming_Exercises/
 * IDE: Visual Studio 2022 (khuyên dùng) hoặc VS Code.
 
 ---
-2026 ThaiTran - Systems Programming Exercises
