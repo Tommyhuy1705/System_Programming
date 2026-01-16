@@ -1,0 +1,5 @@
+D:\Study\School\Lập trình hệ thống\Code\System_Programming\Tutorial_02\Question_04\obj\Debug\net8.0\Question_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\School\Lập trình hệ thống\Code\System_Programming\Tutorial_02\Question_04\obj\Debug\net8.0\Question_04.AssemblyInfoInputs.cache
+D:\Study\School\Lập trình hệ thống\Code\System_Programming\Tutorial_02\Question_04\obj\Debug\net8.0\Question_04.AssemblyInfo.cs
+D:\Study\School\Lập trình hệ thống\Code\System_Programming\Tutorial_02\Question_04\obj\Debug\net8.0\Question_04.csproj.CoreCompileInputs.cache
+D:\Study\School\Lập trình hệ thống\Code\System_Programming\Tutorial_02\Question_04\obj\Debug\net8.0\Question_04.sourcelink.json
