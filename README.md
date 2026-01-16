@@ -1,4 +1,5 @@
 # Systems Programming
+# 2026 ThaiTran - Systems Programming Exercises
 
 Trường Công nghệ và Thiết kế - UEH University
 Repository này lưu trữ các bài tập thực hành của môn học Lập trình hệ thống.
@@ -34,7 +35,7 @@ SystemsProgramming_Exercises/
 
 1. Clone repository
 
-3. Mở file System_Programmings bằng Visual Studio 2022.
+3. Mở file System_Programming bằng Visual Studio 2022.
 
 4. Trong cửa sổ Solution Explorer, chuột phải vào Project muốn chạy (ví dụ: Tutorial_01) chọn "Set as Startup Project".
 
@@ -45,4 +46,3 @@ SystemsProgramming_Exercises/
 * IDE: Visual Studio 2022 (khuyên dùng) hoặc VS Code.
 
 ---
-2026 ThaiTran - Systems Programming Exercises
