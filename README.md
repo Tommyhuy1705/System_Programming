@@ -9,18 +9,34 @@ Repository này lưu trữ các bài tập thực hành của môn học Lập t
 ![IDE](https://img.shields.io/badge/IDE-Visual_Studio_2022-5C2D91?style=flat&logo=visual-studio)
 
 ## Cấu trúc 
-
 ```
 SystemsProgramming_Exercises/
-├── SystemsProgramming_Exercises.sln   
-├── README.md                          
+├── System_Programming.sln             # File Solution chính
+├── README.md                          # Tài liệu hướng dẫn
 │
-├── Tutorial_01/                       # Buổi 1
-│   ├── Program.cs                     # Bài tập code
-│   ├── Tutorial_01.pdf                # Bài tập lý thuyết
+├── Tutorial_01/                       # Buổi 1: System Info & Environment
+│   ├── Program.cs
+│   ├── Tutorial_01.pdf
 │   └── Tutorial_01.csproj
 │
-└── ... (Các bài tập còn lại)
+├── Tutorial_02/                       # Buổi 2: Low-level, GC & APIs
+│   ├── Question_01/
+│   ├── Question_02/
+│   ├── Question_03/
+│   ├── Question_04/
+│   └── Question_05/
+│
+├── Tutorial_03/                       # Buổi 3: Memory & Concurrency
+│   └── Lab3/
+│       ├── Program.cs
+│       └── Lab3.csproj
+│
+└── Tutorial_04/                       # Buổi 4: Thread Safety & I/O
+    ├── Question_01/
+    ├── Question_02/
+    ├── Question_03/
+    ├── Question_04/
+    └── Question_05/
 ```
 
 ## Danh sách bài tập
@@ -28,8 +44,9 @@ SystemsProgramming_Exercises/
 | STT | Bài tập | Nội dung chính | Trạng thái |
 | :---: | :--- | :--- | :---: |
 | 01 | [Tutorial 01](./Tutorial_01) | Tổng quan, System Info, .NET Runtime | Hoàn thành |
-| 02 | Tutorial 02 | (Đang cập nhật...) | Chưa thực hiện |
-| 03 | Tutorial 03 | (Đang cập nhật...) | Chưa thực hiện |
+| 02 | [Tutorial 02](./Tutorial_02) | Struct vs Class, GC, P/Invoke | Hoàn thành |
+| 03 | [Tutorial 03](./Tutorial_03) | Memory Management, Multithreading, Async | Hoàn thành |
+| 04 | [Tutorial 04](./Tutorial_04) | Thread Safety, Synchronization, File I/O | Hoàn thành |
 
 ## Hướng dẫn chạy
 
