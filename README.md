@@ -31,12 +31,22 @@ SystemsProgramming_Exercises/
 │       ├── Program.cs
 │       └── Lab3.csproj
 │
-└── Tutorial_04/                       # Buổi 4: Thread Safety & I/O
-    ├── Question_01/
-    ├── Question_02/
-    ├── Question_03/
-    ├── Question_04/
-    └── Question_05/
+├── Tutorial_04/                       # Buổi 4: Thread Safety & I/O
+│   ├── Question_01/
+│   ├── Question_02/
+│   ├── Question_03/
+│   ├── Question_04/
+│   └── Question_05/
+│
+└── Tutorial_05/                       # Buổi 5: IPC & RPC
+├── Question1_ProcessA/
+├── Question1_ProcessB/
+├── Question2_Client/
+├── Question2_Server/
+├── Question3_Client/
+├── Question3_Server/
+├── Question4_5_Client/
+└── Question4_5_Server/
 ```
 
 ## Danh sách bài tập
@@ -47,6 +57,7 @@ SystemsProgramming_Exercises/
 | 02 | [Tutorial 02](./Tutorial_02) | Struct vs Class, GC, P/Invoke | Hoàn thành |
 | 03 | [Tutorial 03](./Tutorial_03) | Memory Management, Multithreading, Async | Hoàn thành |
 | 04 | [Tutorial 04](./Tutorial_04) | Thread Safety, Synchronization, File I/O | Hoàn thành |
+| 05 | [Tutorial 05](./Tutorial_05) | IPC (Named Pipes, Sockets), RPC (JSON-RPC) | Hoàn thành ||
 
 ## Hướng dẫn chạy
 
