@@ -38,15 +38,22 @@ SystemsProgramming_Exercises/
 │   ├── Question_04/
 │   └── Question_05/
 │
-└── Tutorial_05/                       # Buổi 5: IPC & RPC
-├── Question1_ProcessA/
-├── Question1_ProcessB/
-├── Question2_Client/
-├── Question2_Server/
-├── Question3_Client/
-├── Question3_Server/
-├── Question4_5_Client/
-└── Question4_5_Server/
+├── Tutorial_05/                       # Buổi 5: IPC & RPC
+│   ├── Question1_ProcessA/
+│   ├── Question1_ProcessB/
+│   ├── Question2_Client/
+│   ├── Question2_Server/
+│   ├── Question3_Client/
+│   ├── Question3_Server/
+│   ├── Question4_5_Client/
+│   └── Question4_5_Server/
+│
+└── Tutorial_06/                       # Buổi 6: Windows Service & Registry
+    ├── Program.cs
+    ├── RegistryHelper.cs
+    ├── TradingConfig.cs
+    ├── Worker.cs
+    └── Tutorial_06_TradingService.csproj
 ```
 
 ## Danh sách bài tập
@@ -58,6 +65,7 @@ SystemsProgramming_Exercises/
 | 03 | [Tutorial 03](./Tutorial_03) | Memory Management, Multithreading, Async | Hoàn thành |
 | 04 | [Tutorial 04](./Tutorial_04) | Thread Safety, Synchronization, File I/O | Hoàn thành |
 | 05 | [Tutorial 05](./Tutorial_05) | IPC (Named Pipes, Sockets), RPC (JSON-RPC) | Hoàn thành ||
+| 06 | [Tutorial 06](./Tutorial_06) | Windows Service, Registry, Background Processing | Hoàn thành ||
 
 ## Hướng dẫn chạy
 
